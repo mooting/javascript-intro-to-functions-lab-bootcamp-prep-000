@@ -7,5 +7,5 @@ const logShout = ( string ) => {
 }
 
 const logWhisper = ( string ) => {
-  console.log( whicper( string ))
+  console.log( whisper( string ))
 }
