@@ -10,7 +10,7 @@ const logWhisper = ( string ) => {
   console.log( whisper( string ))
 }
 
-const sayHiToGrandma( string ) => {
+const sayHiToGrandma = ( string ) => {
   if ( string === whisper( string ))
     return "I can't hear you!"
   else if ( string === shout( string ))
