@@ -1,3 +1,2 @@
-function shout(string) {
-  return string.toUpperCase()
-}
+const shout = (string) => string.toUpperCase()
+  
